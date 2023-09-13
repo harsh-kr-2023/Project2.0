@@ -1,0 +1,10 @@
+﻿CREATE TABLE RentalDetails (
+    RentalDetailId UNIQUEIDENTIFIER DEFAULT NEWID() PRIMARY KEY,
+    MovieId UNIQUEIDENTIFIER NOT NULL,
+    CustomerId UNIQUEIDENTIFIER NOT NULL,
+    RentalDate DATETIME,
+    ReturnDate DATETIME,
+    RentalPrice DECIMAL (5,2),
+    FOREIGN KEY (MovieId) REFERENCES Movies(MovieId) ON DELETE CASCADE,
+    FOREIGN KEY (CustomerId) REFERENCES Customers(CustomerId) ON DELETE CASCADE
+);

@@ -1,0 +1,6 @@
+C:\Users\akash\Desktop\Project1.1\Database1.1\bin\Debug\Database1.1.dacpac
+C:\Users\akash\Desktop\Project1.1\Database1.1\bin\Debug\Database1.1.dll
+C:\Users\akash\Desktop\Project1.1\Database1.1\bin\Debug\Database1.1.pdb
+C:\Users\akash\Desktop\Project1.1\Database1.1\obj\Debug\Database1.1.sqlproj.AssemblyReference.cache
+C:\Users\akash\Desktop\Project1.1\Database1.1\obj\Debug\Database1.1.dll
+C:\Users\akash\Desktop\Project1.1\Database1.1\obj\Debug\Database1.1.pdb
